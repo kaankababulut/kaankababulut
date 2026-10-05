@@ -18,4 +18,4 @@ A job-market platform I use every day, built by directing AI coding agents (Clau
 **Microsoft & AI:** Power Automate · Copilot Studio · multi-agent systems (Pydantic) · AI-assisted development
 
 ## 📫 Contact
-[LinkedIn](https://linkedin.com/in/YOUR-PROFILE)
+[LinkedIn](www.linkedin.com/in/kaan-kababulut-12376131b)
